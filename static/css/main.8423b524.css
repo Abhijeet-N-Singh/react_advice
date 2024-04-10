@@ -1,0 +1,2 @@
+.example-enter{opacity:0;transform:translateX(-100%)}.example-enter-active{transition:opacity .3s,transform .3s}.example-enter-active,.example-exit{opacity:1;transform:translateX(0)}.example-exit-active{opacity:0;transform:translateX(-100%);transition:opacity .3s,transform .3s}
+/*# sourceMappingURL=main.8423b524.css.map*/
